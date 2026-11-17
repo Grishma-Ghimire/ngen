@@ -4,6 +4,7 @@ add_library(NGen::ngen_bmi ALIAS ngen_bmi)
 target_include_directories(ngen_bmi
   PUBLIC
     ${NGEN_INC_DIR}
+    ${PROJECT_SOURCE_DIR}/extern/bmi-cxx
 )
 
 target_link_libraries(ngen_bmi

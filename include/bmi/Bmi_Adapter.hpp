@@ -4,7 +4,7 @@
 #include <string>
 #include <vector>
 
-#include "bmi.hpp"
+#include "bmi.hxx"
 
 #include "core/mediator/UnitsHelper.hpp"
 

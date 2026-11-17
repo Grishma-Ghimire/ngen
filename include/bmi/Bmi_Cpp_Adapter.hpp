@@ -4,7 +4,7 @@
 #include <memory>
 #include <string>
 
-#include "bmi.hpp"
+#include "bmi.hxx"
 #include "AbstractCLibBmiAdapter.hpp"
 #include "utilities/ExternalIntegrationException.hpp"
 

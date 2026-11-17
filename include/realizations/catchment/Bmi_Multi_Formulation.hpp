@@ -5,7 +5,7 @@
 #include <vector>
 #include "Bmi_Formulation.hpp"
 #include "Bmi_Module_Formulation.hpp"
-#include "bmi.hpp"
+#include "bmi.hxx"
 #include "GenericDataProvider.hpp"
 #include "OptionalWrappedDataProvider.hpp"
 #include "ConfigurationException.hpp"
